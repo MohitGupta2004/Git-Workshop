@@ -1,2 +1,3 @@
 Hi! we are learning github.
 It is a workshop
+We have a cheat sheet
